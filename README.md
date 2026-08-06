@@ -86,7 +86,7 @@ server.listen(3000, () => {
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Mahe13185/FSDLab.git
 ```
 
 ### 2. Navigate to the Project
